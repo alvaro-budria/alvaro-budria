@@ -1,5 +1,5 @@
 - :smiley: Hi, I’m Álvaro F. Budría @alvaro-budria
-- 👀 I’m interested in what happens at the intersection between Machine Learning, Databases and Data Analysis: Big (distributed) Data!
+- 👀 I’m interested in what happens at the intersection between Machine Learning, Databases and Data Analysis.
 - 🌱 I’m currently learning all about Data Science and Data Engineering at UPC, Barcelona, where I am currently enrolled on a Data Science degree, although I may probably be taking some other smaller courses at the same time.
 - 📫 Feel free to contact me if you have any question or proposal :slightly_smiling_face:
   - :email: al.fran.budria@gmail.com
