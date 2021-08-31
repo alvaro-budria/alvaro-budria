@@ -1,5 +1,4 @@
 - :smiley: Hi, I’m Álvaro F. Budría @alvaro-budria
-- 👀 I’m interested mostly in machine learning and computer vision, as well as data analysis and modelling.
 - 🌱 I’m currently learning all about Data Science and Data Engineering at UPC, Barcelona, where I am currently enrolled on a Data Science degree.
 - 📫 Feel free to contact me if you have any question or proposal :slightly_smiling_face:
   - :email: al.fran.budria@gmail.com
