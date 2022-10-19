@@ -1,5 +1,5 @@
 - :smiley: Hi, I’m Álvaro F. Budría @alvaro-budria
-- 🌱 I’m currently learning all about Data Science and Data Engineering at UPC, Barcelona, where I am currently enrolled on a Data Science degree.
+- 🌱 Ms. in Computer Vision @ UAB, Bs. in Data Science @ UPC
 - 📫 Feel free to contact me:
   - :email: al.fran.budria@gmail.com
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/alvaro-budria-fernandez/)
