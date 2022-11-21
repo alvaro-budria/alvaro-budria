@@ -1,5 +1,4 @@
 - :smiley: Hi, I’m Álvaro F. Budría @alvaro-budria
-- 🌱 Ms. in Computer Vision @ UAB, Bs. in Data Science @ UPC
 - 📫 Feel free to contact me:
   - :email: al.fran.budria@gmail.com
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/alvaro-budria-fernandez/)
