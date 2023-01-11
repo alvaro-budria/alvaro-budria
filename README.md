@@ -1,7 +1,4 @@
 - :smiley: Hi, I’m Álvaro F. Budría @alvaro-budria
-- 📫 Feel free to contact me:
-  - :email: al.fran.budria@gmail.com
-  - :briefcase: [LinkedIn](https://www.linkedin.com/in/alvaro-budria-fernandez/)
 
 <!---
 - :raised_hands: You can find some of my work in my previous [GitLab repository](https://gitlab.com/alvaro.francesc.budria)
